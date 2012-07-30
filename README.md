@@ -1,5 +1,33 @@
 <img src="http://www.maxthemes.com/images/zoomed-glasklarthd.jpg" width="200" />
 
+Migration From MacThemes - Help Needed!
+=====================================================================
+
+We're currently in the process of migrating a bunch of icons from the
+[MacThemes forum](http://macthemes.net/forum/viewtopic.php?f=24&t=16805129)
+and getting them added to this repository.
+
+The most recent "offical" version of Glasklart is woefully behind in that
+regard. There's no possible way I can do this on my own; there are just too
+many and that's why I need your help.
+
+Any assistance you all can give to pull icons from the forum and create issues
+or pull requests here on Github would be greatly appreciated. I fear that if
+this doesn't happen, all of the amazing icons designed and never integrated into
+Glasklart proper, will be lost.
+
+Pull requests are obviously easiest but I realize a lot of you won't have Git
+experience so just do what you can.
+
+If you're submitting them as issues, please follow the instructions [here](#tracking-down-needed-information).
+
+_Note: for migration icon items, the "one icon per issue/pull request" will be
+waived until we get the bulk of the items out of the way._
+
+Thank you ALL for the incredible amount of support you've shown Glasklart over
+the years.  Moving to Github will mean we can make Glasklart even better for
+everyone.
+
 Overview
 =====================================================================
 
