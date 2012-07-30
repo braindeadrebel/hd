@@ -14,10 +14,10 @@ dialer skin, call skin and a lot of separate options for additional
 customization. 
 
 This theme is for iPhone devices which are Retina-display compatible.
-If you are looking for the non-Retina version, click here.
+If you are looking for the non-Retina version, [click here](https://github.com/glasklart/classic).
 
-Either download from Cydia (search for Glasklart Classic), or
-[click here](https://github.com/glasklart/classic/downloads).
+Either download from Cydia (search for Glasklart HD), or
+[click here](https://github.com/glasklart/hd/downloads).
 
 Installation
 =====================================================================
